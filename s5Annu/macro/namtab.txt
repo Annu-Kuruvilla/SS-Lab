@@ -1,0 +1,7 @@
+ABC
+
+
+/*
+asma@asma:~/pgrms$ ./a.out
+Successfull !!! 
+asma@asma:~/pgrms$
